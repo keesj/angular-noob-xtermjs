@@ -42,3 +42,11 @@ ng serve
 
 Cleanup app (replace app.component.html with <app-terminal>
 
+"terminal works!" on the screen
+
+
+## google and follow random tutorials
+
+Google and find random tutorials until something starts to work
+
+https://stackoverflow.com/questions/53307998/integrate-xterm-js-to-angular
