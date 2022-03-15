@@ -50,3 +50,13 @@ Cleanup app (replace app.component.html with <app-terminal>
 Google and find random tutorials until something starts to work
 
 https://stackoverflow.com/questions/53307998/integrate-xterm-js-to-angular
+
+
+##  Docker/devcontainer
+
+Create .devcontainer stuff
+
+install 
+
+npm install
+npm install -g @angular/cli
