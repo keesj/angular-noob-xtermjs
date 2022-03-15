@@ -1,27 +1,37 @@
 # NoobXtermjs
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.6.
+How a noob tries to get xtermjs working on angular
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Create a new project 
 
-## Code scaffolding
+ns new noob-xtermjs
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Select N and SCSS (sever side css?)
 
-## Build
+Node.js version v17.1.0 detected.
+Odd numbered Node.js versions will not enter LTS status and should not be used for production. For more information, please see https://nodejs.org/en/about/releases/.
+? Would you like to add Angular routing? No
+? Which stylesheet format would you like to use? SCSS   [ https://sass-lang.com/documentation/syntax#scss   
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+## Install xtermjs
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+npm install xterm
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Create a ng component for the terminal
 
-## Further help
+ng generate compoment terminal
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+Node.js version v17.1.0 detected.
+Odd numbered Node.js versions will not enter LTS status and should not be used for production. For more information, please see https://nodejs.org/en/about/releases/.
+CREATE src/app/terminal/terminal.component.scss (0 bytes)
+CREATE src/app/terminal/terminal.component.html (23 bytes)
+CREATE src/app/terminal/terminal.component.spec.ts (640 bytes)
+CREATE src/app/terminal/terminal.component.ts (284 bytes)
+UPDATE src/app/app.module.ts (404 bytes)
+
+
+
