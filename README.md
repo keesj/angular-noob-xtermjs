@@ -60,3 +60,10 @@ install
 
 npm install
 npm install -g @angular/cli
+
+
+## gitpod
+
+just open in gitpod
+then find url using gp url 4200
+
