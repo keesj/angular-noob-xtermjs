@@ -1,0 +1,7 @@
+image:
+  file: .devcontainer/Dockerfile
+ports:
+   - port: 4200
+tasks:
+  - init: npm install && npm install -g @angular/cli
+    command: ng serve
