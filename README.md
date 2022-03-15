@@ -35,3 +35,10 @@ UPDATE src/app/app.module.ts (404 bytes)
 
 
 
+## run the app
+
+ng serve
+
+
+Cleanup app (replace app.component.html with <app-terminal>
+
